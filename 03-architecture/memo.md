@@ -1,0 +1,22 @@
+- 3.5.1 一般的なアーキテクチャの構成要素
+
+  - プログラムの構成
+  - main classes
+  - data design
+  - business rules
+  - UI design
+  - resource control
+  - security
+  - performance
+  - scalability
+  - Interoperability
+  - i18n
+  - I/O
+  - error handling
+  - fault tolerance
+  - Feasibility
+  - over engineering
+  - buy / create
+  - reuse
+  - change policy
+  - アーキテクチャの全体的な品質

@@ -8,7 +8,7 @@
 
 # 実践レベル
 
-- Software Configuration Management Patterns: Effective Teamwork, Practical Integration (English Edition) Kindle 版
+- パターンによるソフトウェア構成管理 (IT Architects’Archive ソフトウェア開発の課題 5)
 - UML モデリングのエッセンス 第 3 版 (Object Oriented SELECTION)
 - Software Creativity 2.0 (English Edition) Kindle 版
 - 基本から学ぶソフトウェアテスト

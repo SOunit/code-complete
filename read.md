@@ -1,28 +1,61 @@
 # 初級レベル
 
+### 全般
+
 - メンタル・ブロックバスター―知覚、感情、文化、環境、知性、表現…、あなたの発想を邪魔する 6 つの壁
+
+### コーディング
+
 - 珠玉のプログラミング 本質を見抜いたアルゴリズムとデータ構造
-- ソフトウエア開発 55 の真実と 10 のウソ
-- ソフトウェアプロジェクトサバイバルガイド
 - CODE COMPLETE 上 / 下
+
+### エッセイ
+
+- ソフトウエア開発 55 の真実と 10 のウソ
+
+### プロジェクト管理
+
+- ソフトウェアプロジェクトサバイバルガイド
 
 # 実践レベル
 
-- パターンによるソフトウェア構成管理 (IT Architects’Archive ソフトウェア開発の課題 5)
-- UML モデリングのエッセンス 第 3 版 (Object Oriented SELECTION)
+### 全般
+
 - Software Creativity 2.0 (English Edition) Kindle 版
-- 基本から学ぶソフトウェアテスト
-- 実践 UML―パターンによる統一プロセスガイド
-- ラピッドデベロップメント―効率的な開発を目指して (MicrosoftPRESS)
+
+### 要求
+
 - ソフトウェア要求　第 3 版
+
+### 設計
+
+- UML モデリングのエッセンス 第 3 版 (Object Oriented SELECTION)
+- 実践 UML―パターンによる統一プロセスガイド
+
+### テスト
+
+- 基本から学ぶソフトウェアテスト
+- ラピッドデベロップメント―効率的な開発を目指して (MicrosoftPRESS)
+
+### プロジェクト管理
+
 - Manager's handbook for Software Development
+
+### SVN / 不要？
+
+- パターンによるソフトウェア構成管理 (IT Architects’Archive ソフトウェア開発の課題 5)
 
 # プロフェッショナルレベル
 
-- Software Architecture in Practice (SEI Series in Software Engineering) (English Edition) Kindle 版
-- リファクタリング 既存のコードを安全に改善する（第 2 版）
-- オブジェクト指向における再利用のためのデザインパターン
-- Principles of Software Engineering Management
-- ライティングソリッドコード―バグのないプログラミングを目指して (マイクロソフトプレスシリーズ)
+### 設計 / コーディング
+
+- 実践ソフトウェアアーキテクチャ
 - オブジェクト指向入門 第 2 版 原則・コンセプト
+- オブジェクト指向における再利用のためのデザインパターン
+- リファクタリング 既存のコードを安全に改善する（第 2 版）
+- ライティングソリッドコード―バグのないプログラミングを目指して (マイクロソフトプレスシリーズ)
+
+### プロジェクト管理
+
+- Principles of Software Engineering Management
 - Software Measurement Guidebook
